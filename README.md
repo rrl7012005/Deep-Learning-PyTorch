@@ -11,7 +11,7 @@ Concepts covered in the notebooks include:
 - Data Augmentation in PyTorch
 - Transfer Learning PyTorch
 - Converting notebooks to scripts
-- Experiment Tracking with Wandb, Tensorboard, and MLFlow
+- Experiment Tracking with Tensorboard
 - ViT from scratch
 - Hyperparameter Tuning
 - Model Deployment
